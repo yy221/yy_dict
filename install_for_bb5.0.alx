@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="yy_dict">
+		<name >
+			yy dict
+		</name>
+		<description >
+			yy dict, copyright 2013
+		</description>
+		<version >
+			2.0.4
+		</version>
+		<vendor >
+			yy dict Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 yy dict Developer
+		</copyright>
+		<fileset Java="1.0">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				yy_dict.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

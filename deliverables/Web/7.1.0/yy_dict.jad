@@ -1,0 +1,17 @@
+MIDlet-Name: yy_dict
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: yy_dict.jar
+MIDlet-Jar-Size: 45766
+MIDlet-Description: yy dict, copyright 2012
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: yy dict,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: yy_dict.cod
+RIM-COD-Size: 45956
+RIM-COD-Creation-Time: 1376566112
+RIM-COD-Module-Name: yy_dict
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: 2c 7e 01 27 74 f4 6b f3 67 73 16 fa b1 ab cf 12 73 9d 7f 60

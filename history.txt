@@ -1,0 +1,12 @@
+0.3, 2013/05.14, 07:09
+1, make word review to dump.txt;
+2, make review mode dont's save word into new_word.txt;
+3, only load word index in need.
+
+0.2, 2013/5/11 17:38:07 
+1, fixed "file system out of resource" exception.
+2, add dump word define into file ! Can act as a simple clipbord dumper!
+3, limited text maximum number to 16K
+
+0.1, 2013/5/11 7:38:07 
+1, add word review

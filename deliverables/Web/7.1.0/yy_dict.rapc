@@ -1,0 +1,11 @@
+MIDlet-Name: yy_dict
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Description: yy dict, copyright 2012
+MIDlet-Jar-URL: yy_dict.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: yy dict,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+
