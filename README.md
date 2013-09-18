@@ -1,4 +1,4 @@
-bb_dict
+yy_dict
 =======
 
-A simple blackberry english-chinese dict
+A simple blackberry os 5.0 english-chinese dict for private use.
